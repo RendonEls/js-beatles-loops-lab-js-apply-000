@@ -12,7 +12,7 @@ function johnLennonFacts(facts){
   var results = []
   var numberStart = 0
   while (numberStart < facts.length) {
-    
+    results.push(facts)
   }
 }
 
