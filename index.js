@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments) {
   return emptyArray;
 }
 
-function johnLennonFacts()
+function johnLennonFacts(facts)
 
 
 describe('Beatles Loops', function() {
