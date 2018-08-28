@@ -1,7 +1,8 @@
 // add solution here
 
 function theBeatlesPlay(musicians, instruments) {
-  var 
+  var emptyArray = []
+  
 }
 
 describe('Beatles Loops', function() {
