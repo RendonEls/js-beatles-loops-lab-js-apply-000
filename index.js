@@ -1,6 +1,6 @@
 // add solution here
 
-function theBeatlesPlay()
+function theBeatlesPlay(musicians, instruments)
 
 describe('Beatles Loops', function() {
   it("returns an array of strings containing what instruments each musician plays", function() {
