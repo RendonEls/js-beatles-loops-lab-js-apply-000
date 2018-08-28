@@ -22,9 +22,9 @@ function iLoveTheBeatles(love){
   do{
     newArray.push("I love the Beatles!");
     love++
-    while(count < 15)
+    }
+    while(love < 15)
    
-  }
 }
 
 
