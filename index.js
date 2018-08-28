@@ -21,6 +21,7 @@ function iLoveTheBeatles(love){
   var newArray = []
   do{
     while()
+    newArray.push()
   }
 }
 
